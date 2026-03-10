@@ -1252,7 +1252,7 @@ function BuiltWith(_ref) {
     target: "_blank",
     rel: "noopener noreferrer",
     "data-element": "powered-by"
-  }, props), "Built with ConvertKit");
+  }, props), "Built with Kit");
 }
 
 function useScript(url) {
