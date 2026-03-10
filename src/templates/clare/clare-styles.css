@@ -5,6 +5,7 @@
 .formkit-form.clare {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+	text-align: center;
 }
 
 .formkit-form.clare legend {
